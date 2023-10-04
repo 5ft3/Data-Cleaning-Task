@@ -1,0 +1,1 @@
+Data task assignment where I was asked to clean two summary statistic files produced from a regression analysis of genetic variants from a genome-wide associan study.
